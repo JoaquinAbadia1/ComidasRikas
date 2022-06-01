@@ -1,0 +1,68 @@
+body{
+    background-image:url(/img/Fondo.jpg);
+    font-family: 'PT Sans', sans-serif;
+
+}
+
+
+h1{
+    margin-left: 300px;
+    margin-top: 0%;
+}
+#navv {
+    background-color: #ead868;
+    margin: 10px;
+    margin: 0%;
+    padding: 0%;
+    display: flex;
+    
+    
+}
+
+.hiper{
+    margin-top: 0px;
+    margin-left: 210px;
+}
+
+header img{
+    width: 100px;
+    height: 100px;
+  position: absolute;
+}
+#principal{
+    display: flex;
+}
+main{
+    flex-direction: row;
+    flex: 3;
+    
+    
+}
+aside{
+    flex: 1;
+    border: solid 5px 	#FFFF00;
+}
+
+
+
+img{
+    margin-bottom: 300px;
+    margin-left: 15px;
+    width: 350px;
+    display: inline-block;
+    height:320px;
+    width: 500px;
+    
+}
+footer{
+    background-color: #ead868;
+    text-align: center;
+
+}
+
+
+
+
+
+
+

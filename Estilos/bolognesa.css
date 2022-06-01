@@ -1,0 +1,26 @@
+h1{
+    margin-left: 200px;
+    margin-top: 0%;
+}
+#navv {
+    background-color: #ead868;
+    margin: 10px;
+    margin: 0%;
+    padding: 0%;
+    display: flex;
+    
+    
+}
+h1{
+    margin-left: 300px;
+}
+.hiper{
+    margin-top: 0px;
+    margin-left: 210px;
+}
+
+header img{
+    width: 100px;
+    height: 100px;
+  position: absolute;
+}
